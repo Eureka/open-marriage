@@ -548,9 +548,9 @@
       "resolved": "https://registry.npmjs.org/csv/-/csv-0.3.0.tgz"
     },
     "db-migrate": {
-      "version": "0.4.1",
-      "from": "https://registry.npmjs.org/db-migrate/-/db-migrate-0.4.1.tgz",
-      "resolved": "https://registry.npmjs.org/db-migrate/-/db-migrate-0.4.1.tgz",
+      "version": "0.6.3",
+      "from": "https://registry.npmjs.org/db-migrate/-/db-migrate-0.6.3.tgz",
+      "resolved": "https://registry.npmjs.org/db-migrate/-/db-migrate-0.6.3.tgz",
       "dependencies": {
         "async": {
           "version": "0.1.22",
