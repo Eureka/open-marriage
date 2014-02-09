@@ -8,9 +8,9 @@
       "resolved": "https://registry.npmjs.org/async/-/async-0.2.7.tgz"
     },
     "bower": {
-      "version": "1.2.7",
-      "from": "https://registry.npmjs.org/bower/-/bower-1.2.7.tgz",
-      "resolved": "https://registry.npmjs.org/bower/-/bower-1.2.7.tgz",
+      "version": "1.2.8",
+      "from": "https://registry.npmjs.org/bower/-/bower-1.2.8.tgz",
+      "resolved": "https://registry.npmjs.org/bower/-/bower-1.2.8.tgz",
       "dependencies": {
         "abbrev": {
           "version": "1.0.4",
