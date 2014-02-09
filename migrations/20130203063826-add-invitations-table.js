@@ -17,7 +17,7 @@ exports.up = function (db, callback) {
             has_children : {type: 'boolean', defaultValue: false}
         },
 
-        ifNotExists: true
+        ifExists: !true
     }, callback);
 };
 

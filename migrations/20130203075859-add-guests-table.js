@@ -22,7 +22,7 @@ exports.up = function (db, callback) {
                 is_plusone  : {type: 'boolean', defaultValue: false}
             },
 
-            ifNotExists: true
+            ifExists: !true
         }),
 
         db.runSql.bind(db,
